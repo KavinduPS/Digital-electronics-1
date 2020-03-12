@@ -1,0 +1,2 @@
+vhdl work "hex_to_7sseg.vhd"
+vhdl work "driver_7seg.vhd"
